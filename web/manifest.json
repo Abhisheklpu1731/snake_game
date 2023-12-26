@@ -1,0 +1,35 @@
+{
+    "name": "Abhi snake",
+    "short_name": "gameone",
+    "start_url": ".",
+    "display": "standalone",
+    "background-image": "https://i.pinimg.com/originals/77/59/a3/7759a3f6d6bc621cb496f306f9358766.png",
+    "theme_color": "#0175C2",
+    "description": "A new Flutter project.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/snake.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/snake.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/snake.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/snake.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
