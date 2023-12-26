@@ -26,7 +26,7 @@ Include some screenshots or gifs of your game in action.
 ## Installation
 
 1. **Download:**
-   - [Download the APK file](#https://drive.google.com/drive/folders/1nGfezuTdf6GYBV2YNK86iscQeV7SuP6v?usp=sharing) from the releases section.
+   - [Download the APK file](https://drive.google.com/drive/folders/1nGfezuTdf6GYBV2YNK86iscQeV7SuP6v?usp=sharing).
 
 2. **Install:**
    - Enable installations from unknown sources in your device settings.
